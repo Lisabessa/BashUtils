@@ -1,6 +1,7 @@
 # Bash Utils
 
 Development of Bash text utilities: cat, grep.
+
 Support of all flags, for grep including their _pair_ combinations (e.g. `-iv`, `-ei`)
 
 ### Usages
