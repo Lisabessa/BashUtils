@@ -1,4 +1,4 @@
-#include "s21_cat.h"
+#include "realized_cat.h"
 
 int main(int argc, char *argv[]) {
   setlocale(LC_ALL, "en_US.UTF-8");
